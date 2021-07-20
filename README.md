@@ -9,3 +9,6 @@ open main.bat
 check this website to make your own zoom protocol links (don't share them with anyone) https://medium.com/zoom-developer-blog/zoom-url-schemes-748b95fd9205 
 
 you can scale it infinitely by adding new lines
+
+
+i should also probably mention u can use the protocl link in cmd by doing
