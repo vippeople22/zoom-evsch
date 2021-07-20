@@ -12,3 +12,5 @@ you can scale it infinitely by adding new lines
 
 
 i should also probably mention u can use the protocl link in cmd by doing
+
+"start __your browser, firefox, google, etc...__ (protocol link)" and scheculing that to get executed every morning or something.
